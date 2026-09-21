@@ -20,6 +20,5 @@ js/main.js      # 계산 로직 및 렌더링
 직렬 추가/변경/커트라인 수정은 `js/data.js`만 편집하면 됩니다.
 
 ## 실행 결과 (링크로 확인)
-https://foggy-corn-2d2.notion.site/2027-3b46387c139381c68381db70d012c82d
 
 
